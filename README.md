@@ -27,13 +27,3 @@
 ----mlenv<br>
 
 4. 按gh文件步骤直接双击打开对应gh电池即可
-
-## 其他资料
-### 本系统于2022年合肥工业大学夏令营教同学们使用，工作营视频链接：
-链接：https://pan.baidu.com/s/1-1tW5IYJIeBT_0nnXf7Uxw 
-提取码：7gul
-
-### 工作营配套文件下载地址：
-链接：https://pan.baidu.com/s/1WJdb3GMVfRxdxo-v1IrZ9Q 
-提取码：eyvu
-
